@@ -84,6 +84,7 @@
 .loc {
   font-weight: 200;
   line-height: 20px;
+  color: gray;
 }
 
 .add-to-cart {
@@ -94,4 +95,6 @@
   padding: 20px 0;
   margin-top: 10px;
   border-radius: 10px;
+
+  cursor: pointer;
 }
